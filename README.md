@@ -28,5 +28,5 @@ Para executar este projeto em sua máquina local, siga as etapas abaixo:
    ```
 
 
-![Tela de login do sistema](https://raw.githubusercontent.com/Joaofelipe14/LIsta-tarefas/refs/heads/main/assets/image.png)
+![Tela de login do sistema](https://raw.githubusercontent.com/Joaofelipe14/Lista-tarefas/refs/heads/main/src/assets/image.png)
 _Tela de listar e cadastrar tarefas_
