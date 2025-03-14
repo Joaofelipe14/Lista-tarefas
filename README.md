@@ -26,3 +26,7 @@ Para executar este projeto em sua máquina local, siga as etapas abaixo:
    ```bash
    npm start
    ```
+
+
+![Tela de login do sistema](https://raw.githubusercontent.com/Joaofelipe14/LIsta-tarefas/refs/heads/main/assets/image.png)
+_Tela de listar e cadastrar tarefas_
